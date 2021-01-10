@@ -1,7 +1,7 @@
 # Build full stack web apps with MEVN Stack
 
 The acronym “MEVN” stands for “MongoDB Express.js VueJS Node.js”. 
-In this post, I am going to show how to create a basic MEVN (MongoDB/Express/VueJS/Node.js) 
+In this app, I am going to show how to create a basic MEVN (MongoDB/Express/VueJS/Node.js) 
 Stack application.
 
 ### What to expect from this app:
